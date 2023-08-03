@@ -1,0 +1,27 @@
+do online assesment problems and phone interview(first)
+
+
+saturday:
+https://www.youtube.com/watch?v=r2I7KIqHTPU
+review how to calculate time complexity
+
+
+filtering
+
+filt = (df['last'] == 'Doe')
+df[filt]
+
+
+https://www.youtube.com/watch?v=Lw2rlcxScZY
+
+
+hours before:
+
+go over:
+
+dfs and bfs
+trees transversals
+binary search
+hash tables
+
+Divide anc conquer algo
