@@ -1,0 +1,18 @@
+focus on =  
+PYTHON
+1. Big(O), learn cheat sheet - IN PROGRESS
+2. Sorting, no bubble sort - IN PROGRESS
+3. know at least one n*log(n) learn quick sort and merge sort) hashtables, using arrays - IN PROGRESS
+4. trees: constroction, traversal and manipulation algo. - WEEK2
+5. one balanced binary tree red/black tree - WEEK 2
+6. a splay tree or an AVL tree, and know how it's implemented - WEEK 2
+7. BFS and DFS, know the difference inorder, postorder and preorder - IN PROGRESS
+8. Graphs: (objects and pointers, matrix, and adjacency list, breadth-first search and depth-first search. - IN PROGRESS
+9. Dijkstra and A*. - WEEK 3
+10. NP-complete problems, such as traveling salesman and the knapsack problem - WEEK 3
+11. combinatorics and probability. You should be familiar with n-choose-k problems and their ilk - WEEK 3
+
+OTHER:
+1. Arrays 
+2. Linked List
+3. Hashtables
